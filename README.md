@@ -1,4 +1,6 @@
-## Hi there 👋
+## Mi nombre es Fran 👋
+
+## Actualmente soy estudiante de DAM a distancia
 
 <!--
 **FranReinaldos/FranReinaldos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
